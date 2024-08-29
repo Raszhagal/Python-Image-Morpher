@@ -1,0 +1,7 @@
+pyqt5
+scipy
+numpy
+imageio
+pynput
+opencv-python-headless
+requests
